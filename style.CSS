@@ -6,6 +6,24 @@ file_up{
     font-size: large ;
 }
 
+.left{
+    display: inline-block;
+}
+
+.left img{
+    height: 100px;
+     border: 2px solid rgb(24, 230, 223);
+
+}
+.left .name{
+    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 25PX;
+    font-size: 29px;
+}
+
+
+
 h1{
     font-family: 'Balsamiq Sans', cursive;
     font-family: 'Montserrat', sans-serif;
@@ -15,7 +33,7 @@ h1{
 .login{
     border: 2px solid orange;
     width: 45%;
-    height: 60vh;
+    height: 70vh;
     margin-top: 347px;
     margin-left: 405px;
     align-items: center;
@@ -49,4 +67,6 @@ h1{
     margin-left: 373px;
     
 }
+
+
  
