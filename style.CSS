@@ -1,0 +1,16 @@
+body{
+    background: url(img/master.jpg);
+}
+
+.login{
+    border: 2px solid orange;
+    width: 29%;
+    margin-top: 141px;
+    margin-left: 495px;
+    align-items: center;
+    text-align: center;
+}
+.login input{
+
+    
+}
