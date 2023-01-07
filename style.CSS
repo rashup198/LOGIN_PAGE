@@ -8,6 +8,7 @@ file_up{
 
 .left{
     display: inline-block;
+    /* border: 2px solid black; */
 }
 
 .left img{
@@ -21,7 +22,34 @@ file_up{
     line-height: 25PX;
     font-size: 29px;
 }
+.right{
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    border: 2px solid rgb(13, 13, 13);
 
+}
+
+.right .insta{
+    height: 50px;
+}
+
+.right .twitter{
+    margin-left: 10px;
+    height: 50px;
+}
+
+.right .reddit{
+    margin-left: 10px;
+    height: 50px;
+}
+
+.follow{
+    font-size: 23px;
+     font-weight: bold;
+    text-decoration: underline; 
+    line-height: 0px; 
+}
 
 
 h1{
