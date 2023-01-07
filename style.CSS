@@ -1,16 +1,52 @@
 body{
     background: url(img/master.jpg);
 }
+file_up{
 
+    font-size: large ;
+}
+
+h1{
+    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    text-decoration: underline;
+}
 .login{
     border: 2px solid orange;
-    width: 29%;
-    margin-top: 141px;
-    margin-left: 495px;
+    width: 45%;
+    height: 60vh;
+    margin-top: 347px;
+    margin-left: 405px;
     align-items: center;
     text-align: center;
 }
 .login input{
 
+    text-align: center;
+    font-size: 25px;
+    margin: 7px;
+    padding: 4px;
+    display: inline-block;
     
 }
+.file{
+    text-align: center;
+    align-items: center ;
+    display: block;
+    float: right;
+}
+.player{
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+
+}
+.player video{
+    width: 750px;
+    height : 315px;
+    align-items: center;
+    margin-left: 373px;
+    
+}
+ 
